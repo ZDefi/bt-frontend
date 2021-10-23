@@ -1,0 +1,13 @@
+<svg width="98" height="98" viewBox="0 0 98 98" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="53" cy="53" r="42.5" fill="white" stroke="white" stroke-width="5"/>
+<path d="M91 53.5C91 74.2107 74.2107 91 53.5 91C32.7893 91 16 74.2107 16 53.5C16 32.7893 32.7893 16 53.5 16C74.2107 16 91 32.7893 91 53.5Z" fill="url(#pattern0)"/>
+<circle cx="21" cy="21" r="19.5" fill="#1BA27A" stroke="white" stroke-width="3"/>
+<path d="M29 11H13V15.4538H19.0686V22H22.9314V15.4538H29V11Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.0001 18C27.6275 18 33 19.2115 33 20.7061C33 22.0291 28.7904 23.1303 23.2274 23.3657V33H18.6865V23.3619C13.166 23.119 9 22.0224 9 20.7061C9 19.2115 14.3729 18 21.0001 18ZM10.3129 20.3563C10.3129 21.5154 15.098 22.455 21.0001 22.455C26.9022 22.455 31.6871 21.5154 31.6871 20.3563C31.6871 19.1973 26.9022 18.2576 21.0001 18.2576C15.0978 18.2576 10.3129 19.1973 10.3129 20.3563Z" fill="white"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.015625)"/>
+</pattern>
+<image id="image0" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACIklEQVR4Xu2XsU7CUBSGCwVEEESB2grI5hPp4uLmo5j4AE7GSXc3JwfjKiIYHXwCKGiMT3BtNRb6H6m0kkI8Z/iG/uent/0C5VZb3dhUnNEw4IYIwIAbIgADbogADLghAjDghgjAgBsiAANuiAAMuCECMOCGCMAgPmo/ZPEzRwGLgQjAgBsiAANuRBag2Q8qYd974DxotkhEFzDoquSg44HzoNkiMRcBa0bdP980VKFC1/imVDdVcvjk9bWbC1UyaS8KsQooGE1fjhhFujnKPl+R3jdFq0H6YYlVAN7ATxjGltdPv7XIHMlbFlk7DDMTkBj6GZ+5/XK54b/4Xkfldnad89CbcvtF0yL58uWZ0t/vVKb/SPpRmZmAINx+wh7107b/oleqFdLXetckGydoFobYBOAxog9H58N+obZN+uPzzPCRzKdlZgJ++wngMeLuFyb10wf7pD8+1/u3ZD4tMxOAc5xpr6Nj7aX1az9/fEiySf1cxSDzaYlNwIpp+rIl52ub6N0qvUef9G5/2aySPGO3nf1AW+m2/zO4dhhiE4DZJNatptcvnp+QObLhbKpw7TDEKsAl26c34ZIePDl/fXSd1P4e6bqk+l3SjUJ0AX98GcqeHn0+F3Rni7tm0Dmh3HTWbH31K3THGJXIAv4LIgADbogADLghAjDghgjAgBsiAANuiAAMuCECMOCGCMCAGyIAA26IAAy4IQIw4IYIwIAbH5ghkt0saYK+AAAAAElFTkSuQmCC"/>
+</defs>
+</svg>

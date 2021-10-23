@@ -1,0 +1,53 @@
+[
+  {
+   "anonymous": false,
+   "inputs": [
+    {
+     "indexed": false,
+     "internalType": "uint256",
+     "name": "id",
+     "type": "uint256"
+    },
+    {
+     "indexed": false,
+     "internalType": "address",
+     "name": "sender",
+     "type": "address"
+    },
+    {
+     "indexed": false,
+     "internalType": "uint256",
+     "name": "cnt",
+     "type": "uint256"
+    }
+   ],
+   "name": "stake",
+   "type": "event"
+  },
+  {
+   "inputs": [
+    {
+     "internalType": "uint256",
+     "name": "cnt",
+     "type": "uint256"
+    }
+   ],
+   "name": "stakeVdr",
+   "outputs": [],
+   "stateMutability": "nonpayable",
+   "type": "function"
+  },
+  {
+   "inputs": [],
+   "name": "bee",
+   "outputs": [
+    {
+     "internalType": "address",
+     "name": "",
+     "type": "address"
+    }
+   ],
+   "stateMutability": "view",
+   "type": "function"
+  }
+ ]

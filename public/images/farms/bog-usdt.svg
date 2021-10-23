@@ -1,0 +1,13 @@
+<svg width="98" height="98" viewBox="0 0 98 98" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="53" cy="53" r="42.5" fill="white" stroke="white" stroke-width="5"/>
+<path d="M91 53.5C91 74.2107 74.2107 91 53.5 91C32.7893 91 16 74.2107 16 53.5C16 32.7893 32.7893 16 53.5 16C74.2107 16 91 32.7893 91 53.5Z" fill="url(#pattern0)"/>
+<circle cx="21" cy="21" r="19.5" fill="#1BA27A" stroke="white" stroke-width="3"/>
+<path d="M29 11H13V15.4538H19.0686V22H22.9314V15.4538H29V11Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.0001 18C27.6275 18 33 19.2115 33 20.7061C33 22.0291 28.7904 23.1303 23.2274 23.3657V33H18.6865V23.3619C13.166 23.119 9 22.0224 9 20.7061C9 19.2115 14.3729 18 21.0001 18ZM10.3129 20.3563C10.3129 21.5154 15.098 22.455 21.0001 22.455C26.9022 22.455 31.6871 21.5154 31.6871 20.3563C31.6871 19.1973 26.9022 18.2576 21.0001 18.2576C15.0978 18.2576 10.3129 19.1973 10.3129 20.3563Z" fill="white"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.015625)"/>
+</pattern>
+<image id="image0" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACp0lEQVR4Xt3Z0W0TQRSF4ZSAAoVQAiVQAiXwRgMUQAH0EpEakJB4oA/AYBhLseJvvd57Z2bXuz7SLyF55txzromjje/uFtL+8f793y/3+wjlrPc3p0zhKTa1EMP3xnmrkUHnxvlXk8GWxjyLySDXxnyzyuFrwZyzyKFrw7zdtH98+c5ha6VkNX+THLAV7FGlLb3z0uV/gqZbwz4pabZV7BWSJlvHfhfl5VvBnqPy4q1gz7PyUis/f/1uQr9W7DuQF1qwTC36tmDfE3m4BUu0on8L9j7Kg7UYvhfOqcXeB3moFkP3xnm12L/LAgw7F86t4aR8jz9gGnJunJ/l5DnBF7MYbinMkaXLAgy1NObJ0LwAw2T48/XD0af829czmCvKoXztz78hougjno+iT4T/nwNvq959h0fRZwzvRdEnQnoBDo2izxTej6LPFKkFOCyDXlN4P4NelwgvwCEZdt8+Dvym2H3/NPDJoN8YoQVonkW/KPpk0e8coQUUNM+gVxR9Mug1RngBBYdEWfpHQK9LpBZQcFgUfabwfhR9pkgvoODQCHpM4f0IekSoWkDB4RH0GMN7EfSI0vTVlyEi6CGej6BHlP3DqzdND0MFw0QpH3JPHrsfnwevRzFPhuanwScMtRTmyNJtAQXDzY3zazguoOVz4DmGnAvn1nB4FH4uD9Ri2N44r5aT8j0XUDB0L5zTgv0P8lALhm9F/xbsfZQHW7FELfq2Yu8TebgVy2TRrxX7DuSFW8O+Z+WlW8Geo/LirWDPi/Ly1rFfSJpsFXulpNnWsE9avZ4TrsH+4cVr+1RJ461gjyaVpycHrJVu7/w5OWxtmHcWOXQtmHNWOfzamG8xGWRpzHM1GWxunL8aGbQ3zlutev7aHPwBc4sq38JYbIzjNzYL6B8wELlX866KHQAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
